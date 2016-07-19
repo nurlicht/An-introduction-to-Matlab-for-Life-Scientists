@@ -10,3 +10,7 @@ The aim of this course is to familiarize life scientists with the common program
 <br /><br />
 The programs start from simple and small ones and evolve gently towards more elaborate and applied ones. Programming concepts and tools are learnt implicitly, as the participants observe minor changes from one program to the next.
 </p>
+
+<p align="center">
+<img src="./matlab.png"></img>
+</p>
