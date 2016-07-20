@@ -12,5 +12,7 @@ The programs start from simple and small ones and evolve gently towards more ela
 </p>
 
 <p align="center">
-<img src="./matlab.png"></img>
+<img src="./overdamped.png"></img>
+<br/>
+<img src="./underdamped.png"></img>
 </p>
