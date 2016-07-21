@@ -1,6 +1,6 @@
 # An-introduction-to-Matlab-for-Life-Scientists
 <p align="justify">
-The aim of this course is to familiarize life scientists with the common programming environment of Matlab. No background in programming is required. The participants will run many (pre-developed) programs relevant to biological data sets (
+The aim of this course (developed at the <a href="http://www.zmbh.uni-heidelberg.de/Central_Services/Imaging_Facility/matlab.html" target="blank">ZMBH Imaging Facility</a>; University of Heidelberg) is to familiarize life scientists with the common programming environment of Matlab. No background in programming is required. The participants will run many (pre-developed) programs relevant to biological data sets (
 <a href="../../blob/master/Exercise-4/ex4_11.m" target="_blank">fluorescence microscopy</a>, 
 <a href="../../blob/master/Exercise-2/ex2_12.m" target="_blank">mass spectrometry</a>, 
 <a href="../../blob/master/Exercise-3/ex3_6.m" target="_blank">x-ray crystallography</a>, 
