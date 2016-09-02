@@ -11,7 +11,14 @@ The aim of this course (developed at the <a href="http://www.zmbh.uni-heidelberg
 The programs start from simple and small ones and evolve gently towards more elaborate and applied ones. Programming concepts and tools are learnt implicitly, as the participants observe minor changes from one program to the next.
 </p>
 
+
 <p align="center">
+<img src="./isoSurfaceEM.gif"></img>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 <img src="./overdamped.png"></img>
 <br/>
 <img src="./underdamped.png"></img>
